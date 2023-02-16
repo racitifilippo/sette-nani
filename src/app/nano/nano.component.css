@@ -1,0 +1,27 @@
+.div-nano-white{
+    background-color: azure;
+    border: 1px solid black;
+    border-radius: 10px;
+    padding: 5px 20px;
+    margin: 10px;
+    width: fit-content;
+    float: left;
+}
+
+.div-nano-black{
+    background-color: rgb(0, 31, 99);
+    color: aliceblue;
+    border: 1px solid yellowgreen;
+    border-radius: 10px;
+    padding: 5px 20px;
+    margin: 10px;
+    width: fit-content;
+    float: left;
+}
+
+.nanoButton{
+    background-color: brown;
+    color: white;
+    border: 1px solid black;
+    border-radius: 5px;
+}
